@@ -1,5 +1,3 @@
-let divide = () => 2000/100
-let square = x => x * x;
-let add = (a,b) => a + b;
-
-
+const divide = () => 2000/100;
+let square = (b) => b * b;
+var add = (a,c) => a + c;
